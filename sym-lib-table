@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "rgbtocomponent")(type "KiCad")(uri "${KIPRJMOD}/rgbtocomponent.kicad_sym")(options "")(descr ""))
+  (lib (name "WinchesterSymbols")(type "KiCad")(uri "${KIPRJMOD}/WinchesterSymbols.kicad_sym")(options "")(descr ""))
+)
